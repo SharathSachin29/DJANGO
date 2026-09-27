@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+env/
+.venv/
+*/venv/
+*/env/
+*/.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*/__pycache__/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
